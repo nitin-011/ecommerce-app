@@ -1,0 +1,6 @@
+{
+    "watch": ["backend"],
+    "ext": "js,mjs,json",
+    "exec": "node backend/server.js"
+  }
+  
